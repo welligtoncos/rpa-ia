@@ -1,0 +1,22 @@
+TESTE,STATUS,CATEGORIA,DESCRICAO
+TESTE_1_1,INATIVO,HISTORICO,Data nula
+TESTE_1_2,INATIVO,HISTORICO,Feriados/Fins de semana
+TESTE_1_3,ATIVO,HISTORICO,Histórico nulo
+TESTE_1_4,ATIVO,HISTORICO,Histórico com palavras específicas
+TESTE_1_5,ATIVO,HISTORICO,Histórico com ajuste/acerto
+TESTE_1_6,INATIVO,HISTORICO,Histórico com reversão/estorno
+TESTE_1_7,ATIVO,HISTORICO,Histórico com outros/diversas
+TESTE_1_8,ATIVO,HISTORICO,Histórico com nomes específicos
+TESTE_2_1,INATIVO,CLASSIFICACAO,Sequência de lançamentos
+TESTE_3_1,INATIVO,CLASSIFICACAO,Valor redondo
+TESTE_4_1,INATIVO,CLASSIFICACAO,Sequência por histórico/movimento/data
+TESTE_5_1,INATIVO,CLASSIFICACAO,Descrição não disponível
+TESTE_6_1,INATIVO,CLASSIFICACAO,Movimento alto com receitas
+TESTE_7_1,INATIVO,CLASSIFICACAO,Classe conta resultado
+TESTE_7_2,INATIVO,CLASSIFICACAO,Débito imobilizado com receitas
+TESTE_7_3,INATIVO,CLASSIFICACAO,Teste sempre nulo
+TESTE_7_4,INATIVO,CLASSIFICACAO,Débito/Crédito em contas específicas
+TESTE_7_5,INATIVO,CLASSIFICACAO,Crédito receitas sem contas a receber
+TESTE_7_6,INATIVO,CLASSIFICACAO,Variação cambial
+TESTE_7_7,INATIVO,CLASSIFICACAO,Movimento negativo em caixa
+TESTE_7_9,INATIVO,CLASSIFICACAO,Pessoas politicamente expostas

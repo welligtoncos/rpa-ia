@@ -1,0 +1,19 @@
+Olá! Questão de Morfologia, da FGV de 2024.
+
+A questão pede para identificar, em cada conjunto de quatro palavras, aquela que não pertence à mesma família das demais. Estamos falando de família de palavras, ou seja, palavras que compartilham o mesmo radical e têm origem etimológica comum.
+
+Alternativa A. Temos pão, padaria, panificador e padeiro. Todas essas palavras vêm do latim panis, que significa pão. Padaria é o lugar onde se faz pão, panificador é quem panifica, e padeiro é o profissional que trabalha com pão. Todas pertencem à mesma família. Incorreta.
+
+Alternativa B. Temos manual, manipulação, manter e mão. Aqui é interessante porque manual, manipulação e mão vêm do latim manus, que significa mão. Manual é relativo à mão, manipulação é o ato de manusear com as mãos. Porém, manter tem outra origem. Vem do latim manu tenere, que significa segurar com a mão, mas evoluiu com sentido próprio de conservar, sustentar. Apesar da proximidade, todas ainda compartilham a raiz relacionada a mão. Incorreta.
+
+Alternativa C. Temos barbeiro, barba, barbicha e barbado. Todas derivam de barba, do latim barba. Barbeiro é quem corta barba, barbicha é um tipo de barba, barbado é quem tem barba. Família completa. Incorreta.
+
+Alternativa D. Temos narigudo, nasal, narina e nariz. Todas vêm do latim nasus, que significa nariz. Narigudo é quem tem nariz grande, nasal é relativo ao nariz, narina é a abertura do nariz. Mesma família. Incorreta.
+
+Alternativa E. Temos linha, linear, desalinhado e linho. Aqui está o pulo do gato. Linha, linear e desalinhado vêm do latim linea, que significa linha, traço. Linear é em forma de linha, desalinhado é fora da linha. Mas linho é diferente. Linho vem do latim linum, que é a planta têxtil. Apesar da semelhança sonora, linho não pertence à mesma família das outras três. Correta.
+
+Gabarito: E.
+
+Dica: Para identificar famílias de palavras, não confie apenas na semelhança sonora. Pense no significado e na origem. Palavras da mesma família mantêm relação semântica clara. Linho é uma planta, enquanto linha é um traço ou fio. São coisas diferentes, apesar de parecerem relacionadas.
+
+Até a próxima!

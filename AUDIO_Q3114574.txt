@@ -1,0 +1,19 @@
+Olá! Questão de Morfologia, da FGV de 2024.
+
+A questão pede para identificar, em cada alternativa, qual palavra não pertence à mesma família das demais. Lembrando que família de palavras são aquelas que compartilham o mesmo radical, ou seja, a mesma origem etimológica.
+
+Alternativa A. Temos pão, padaria, panificador e padeiro. Todas essas palavras vêm do latim panis, que significa pão. Portanto, todas pertencem à mesma família. Alternativa incorreta.
+
+Alternativa B. Temos manual, manipulação, manter e mão. Todas derivam do latim manus, que significa mão. Manual é relativo à mão, manipulação é manusear com as mãos, e manter vem de manu tenere, segurar com a mão. Todas da mesma família. Alternativa incorreta.
+
+Alternativa C. Temos barbeiro, barba, barbicha e barbado. Todas vêm do latim barba. Barbeiro é quem cuida da barba, barbicha é um tipo de barba, e barbado é quem tem barba. Mesma família. Alternativa incorreta.
+
+Alternativa D. Temos narigudo, nasal, narina e nariz. Todas derivam do latim nasus, que significa nariz. Narigudo tem nariz grande, nasal é relativo ao nariz, narina é a abertura do nariz. Mesma família. Alternativa incorreta.
+
+Alternativa E. Temos linha, linear, desalinhado e linho. Aqui está o pulo do gato! Linha, linear e desalinhado vêm do latim linea, que significa linha, traço. Mas linho vem de linum, que é a planta têxtil. Apesar de parecerem relacionadas, porque do linho se fazem linhas, etimologicamente são palavras diferentes. Linho não pertence à mesma família das outras três. Alternativa CORRETA.
+
+Gabarito: E.
+
+Dica: Em questões de família de palavras, não se deixe enganar pela semelhança aparente. O que vale é a origem etimológica, não apenas a semelhança de forma ou de sentido atual. Palavras podem parecer parentes mas terem origens completamente diferentes. Quando tiver dúvida, pense na raiz latina ou grega da palavra.
+
+Até a próxima!

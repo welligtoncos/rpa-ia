@@ -1,0 +1,19 @@
+Olá! Questão de Morfologia, da FGV de 2024.
+
+A questão pede para identificar a frase que exemplifica corretamente um adjetivo no grau superlativo absoluto. Vamos relembrar: o superlativo absoluto expressa uma qualidade em grau muito elevado, sem fazer comparação com outros elementos. Ele pode ser analítico, quando usamos um advérbio de intensidade como muito, extremamente ou bastante antes do adjetivo, ou sintético, quando acrescentamos sufixos como íssimo ao adjetivo.
+
+Alternativa A. A situação dos habitantes de algumas cidades gaúchas ficou extremamente grave. Aqui temos o adjetivo grave intensificado pelo advérbio extremamente. Isso caracteriza o superlativo absoluto analítico. Não há comparação, apenas intensificação da qualidade. Esta alternativa está correta.
+
+Alternativa B. A questão do uso das câmeras pelos policiais é um dos problemas mais discutidos do momento. Aqui temos mais discutidos do momento, o que indica superlativo relativo de superioridade. Há uma comparação implícita com outros problemas. Incorreta porque não é superlativo absoluto.
+
+Alternativa C. O problema da educação no Brasil talvez seja mais grave que o problema da saúde. Neste caso, temos uma comparação direta entre dois problemas usando mais grave que. Isso caracteriza o grau comparativo de superioridade. Incorreta porque há comparação explícita.
+
+Alternativa D. O problema dos altos salários em algumas funções públicas é visto como menos grave do que outros desequilíbrios. Aqui aparece menos grave do que, estabelecendo uma comparação de inferioridade. É grau comparativo, não superlativo absoluto. Incorreta.
+
+Alternativa E. O célebre piloto Ayrton Senna era tão corajoso quanto prudente em suas corridas. A estrutura tão corajoso quanto prudente indica comparativo de igualdade. Há comparação entre duas qualidades do mesmo sujeito. Incorreta porque não é superlativo absoluto.
+
+Gabarito: A.
+
+Dica: Para identificar o superlativo absoluto, procure advérbios de intensidade como muito, extremamente, bastante, ou sufixos como íssimo. Se houver comparação com outros elementos usando mais que, menos que ou tão quanto, não é superlativo absoluto.
+
+Até a próxima!
